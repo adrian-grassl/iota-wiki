@@ -30,7 +30,7 @@ module.exports = {
         description: 'In this tutorial you will learn how to run a wasp node.',
         preview: 'IOTA-Smart-Contract-Tutorials-A.jpg',
         route: 'smart-contracts/guide/chains_and_nodes/running-a-node',
-        tags: ['text', 'video'],
+        tags: ['text', 'video', 'wasp', 'iscp'],
       },
     ],
     [
@@ -40,7 +40,7 @@ module.exports = {
         description: 'In this tutorial you will learn how to run a wasp chain.',
         preview: 'IOTA-Smart-Contract-Tutorials-B.jpg',
         route: 'smart-contracts/guide/chains_and_nodes/setting-up-a-chain',
-        tags: ['text', 'video'],
+        tags: ['text', 'video', 'wasp', 'iscp'],
       },
     ],
     [
@@ -52,7 +52,7 @@ module.exports = {
         preview: 'IOTA-Smart-Contract-Tutorials-C.jpg',
         route:
           'smart-contracts/guide/chains_and_nodes/setting-up-a-chain#deploying-a-wasm-contract',
-        tags: ['text', 'video'],
+        tags: ['text', 'video', 'wasp', 'iscp'],
       },
     ],
     [
@@ -62,7 +62,7 @@ module.exports = {
         description: 'In this tutorial you will learn how to run an EVM node.',
         preview: 'IOTA-Smart-Contract-Tutorials-D.jpg',
         route: 'smart-contracts/guide/evm/create-chain',
-        tags: ['text', 'video'],
+        tags: ['text', 'video', 'wasp', 'iscp'],
       },
     ],
     [
@@ -73,7 +73,7 @@ module.exports = {
           'In this tutorial you will learn how to deploy a solidity smart contract on EVM using remix and metamask.',
         preview: 'IOTA-Smart-Contract-Tutorials-E.jpg',
         route: 'smart-contracts/guide/evm/tooling#remix',
-        tags: ['text', 'video'],
+        tags: ['text', 'video', 'wasp', 'iscp'],
       },
     ],
     [
@@ -84,7 +84,7 @@ module.exports = {
           'In this tutorial you will learn how to deploy a solidity smart contract on EVM using hardhat.',
         preview: 'IOTA-Smart-Contract-Tutorials-F.jpg',
         route: 'smart-contracts/guide/evm/tooling#hardhat',
-        tags: ['text', 'video'],
+        tags: ['text', 'video', 'wasp', 'iscp'],
       },
     ],
     [
@@ -95,7 +95,7 @@ module.exports = {
           'In this tutorial you will learn how to use schema tool to generate smart contract template code on rust and golang',
         preview: 'IOTA-Smart-Contract-Tutorials-G.jpg',
         route: 'smart-contracts/guide/schema/usage',
-        tags: ['text', 'video'],
+        tags: ['text', 'video', 'wasp', 'iscp'],
       },
     ],
     [
@@ -106,7 +106,7 @@ module.exports = {
           'In this tutorial you will learn how to use schema tool to generate smart contract template code on typescript',
         preview: 'IOTA-Smart-Contract-Tutorials-G.jpg',
         route: 'https://www.youtube.com/watch?v=P5HMgmY3DMM',
-        tags: ['video'],
+        tags: ['video', 'wasp', 'iscp'],
       },
     ],
     [
